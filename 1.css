@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+}
+p{
+    text-align: center;
+}
+.box{
+    opacity: 0.9;
+    background-color: rgb(255, 255, 255);
+}
+.box7{
+    box-shadow: 5px 5px 5px rgba(0,0,0,.5);
+}
+.box2{
+    opacity: 0.9;
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+}
+.box3{
+    display: inline-block;
+}
+.box4{
+    color: rgb(255, 120, 120);
+}
+.box5{
+    color: rgb(147, 123, 255);
+}
+.box6{
+    color: rgb(94, 195, 124);
+}
+#blue{
+    color: rgb(182, 192, 255);
+}
+li{
+    display: inline-block;
+    padding: 10px 150px;
+}
+a:hover{
+    color: rgb(223, 223, 255);
+}
+a{
+    text-decoration: none;
+    color: rgb(205, 205, 205);
+}
+div{
+    background-color: rgb(70, 70, 70);
+    text-align: center;
+}
+table{
+    text-align: center;
+    width: 100%;
+}
+main{
+    background-color: rgb(253, 246, 218,0.5);
+    
+}
+body{
+		background: url("https://patchwiki.biligame.com/images/pcr/6/6e/97fo2haxwpnr9p1m4rpiyialytpqhae.jpg") no-repeat center center fixed;
+                -webkit-background-size: cover;
+                -o-background-size: cover;                
+                background-size: cover;
+}
+td:nth-child(2n-1){
+    background-color: rgba(133, 255, 115, 0.7);
+}
+td:nth-child(2n){
+    background-color: rgba(213, 168, 255, 0.7);
+}
+td:nth-child(1){
+    background-color: rgba(243, 255, 241, 0.7);
+}
+.box9{
+    background-color: rgba(243, 255, 241, 0.7);
+    width: 100%;
+    height: 100%;
+}
+td{
+    text-align: center;
+}
+footer{
+    background-color: rgb(40, 40, 40);
+}
+p{
+    color: rgb(235, 235, 235);
+}
